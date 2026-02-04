@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SD Móveis Pro AI - Promob Clone",
+  "description": "Uma plataforma completa para marcenaria com design 3D paramétrico, CRM integrado com IA e renderização realista via Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
